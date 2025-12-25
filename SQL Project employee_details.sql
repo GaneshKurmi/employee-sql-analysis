@@ -177,22 +177,7 @@ OFFSET 1;
 DELETE FROM employee_detail
 WHERE mail_id IS NULL
 
---3.Use a CTE to find employees earning above average salary.
 
-
---Rank employees by salary using a window function.
-
---Find employees who have the same salary.
-
---Create an index on department and explain its benefit.
-
---Find employees whose experience is greater than department average experience.
-
---Remove duplicate employees based on mail_id, keep one.
-
---Create a VIEW for employees with salary > 70,000.
-
---Explain DELETE vs TRUNCATE vs DROP.
 
 
 
